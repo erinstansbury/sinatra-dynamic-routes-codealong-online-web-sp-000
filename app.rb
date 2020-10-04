@@ -20,4 +20,5 @@ class App < Sinatra::Base
   
   get '/muliply' do
     
+  end
 end
